@@ -7,8 +7,3 @@ mix
   .sass('resources/sass/app.scss', 'public/css')
 
 mix.disableSuccessNotifications().version()
-
-//  mix.js(
-//    'resources/frontend/rekishi.onlinestrore.js',
-//    'public/js/rekishi.min.js'
-//  )
